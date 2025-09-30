@@ -1,1 +1,4 @@
 c:\Users\Vanshika\Desktop\hehe\project structure\requirments.txt
+pandas 
+streamlit
+matplotlib
